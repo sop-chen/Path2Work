@@ -11,13 +11,13 @@ header {
 }
 main {
   margin: 0 auto;
-  width: 500px;
+  width: 800px;
 }
 body {
   margin: 0
 }
 .columns {
-  width: 50px;
+  width: 490px;
   display: flex;
 }
 .column {
