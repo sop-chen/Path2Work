@@ -1,25 +1,28 @@
-
 header {
-  color: lightpink;
-  background: darkpink;
+  color: white;
+  background: #E50068;
   margin: 100px 50px 20px;
   padding: 10px 30px;
-  border: pink 10px double;
+  border: white 10px double;
   border-left-width: 20px;
   border-right-width: 20px;
-  text-aligh:center;
+  text-align:center;
 }
 main {
   margin: 0 auto;
   width: 800px;
 }
 body {
-  margin: 0
+  margin: 50px;
 }
 .columns {
-  width: 490px;
+  width: 600px;
   display: flex;
 }
 .column {
-  margin: 5px;
+  margin: 15px;
+}
+h3 {
+    color:#E50068;
+    font-size:18px
 }
